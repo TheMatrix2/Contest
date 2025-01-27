@@ -1,3 +1,5 @@
+# Copyright Boris Ermolovich ermolovich.boris@gmail.com
+# обход графа
 import sys
 from collections import defaultdict, deque
 

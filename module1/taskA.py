@@ -1,3 +1,5 @@
+# Copyright Boris Ermolovich ermolovich.boris@gmail.com
+# двоичный поиск
 import sys
 
 

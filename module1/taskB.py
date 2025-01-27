@@ -1,3 +1,5 @@
+# Copyright Boris Ermolovich ermolovich.boris@gmail.com
+# двунаправленная очередь
 import sys
 import re
 

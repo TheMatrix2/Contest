@@ -1,3 +1,5 @@
+// Copyright Boris Ermolovich ermolovich.boris@gmail.com
+// двунаправленная очередь
 class Deque {
     constructor(size) {
         if (size >= 0) {
