@@ -1,0 +1,43 @@
+add 50 5
+add 25 7
+add 75 12
+add 10 1
+add 40 4
+add 60 6
+add 90 9
+add 5 5
+add 100 1
+add 30 3
+add 45 9
+add 15 6
+add 55 10
+add 70 7
+add 80 8
+print
+delete 75
+print
+delete 25
+print
+delete 50
+print
+delete 15
+delete 80
+print
+delete 90
+print
+delete 100
+print
+delete 75
+delete 45
+print
+delete 40
+delete 30
+delete 10
+print
+delete 5
+print
+delete 70
+delete 55
+delete 60
+delete 50
+
